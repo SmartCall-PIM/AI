@@ -1,0 +1,7 @@
+# Requisitos do projeto
+# Adicione versões se desejar (ex: fastapi==0.100.0)
+fastapi
+uvicorn[standard]
+google-generative-ai
+python-dotenv
+pydantic
